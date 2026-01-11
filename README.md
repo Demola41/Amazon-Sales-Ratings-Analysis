@@ -1,5 +1,5 @@
 # Amazon Product Sales & Sentiment Analysis Dashboard
-<a href="#">][Dashboard Preview]</a>
+<a href="#">[Dashboard Preview]</a>
 ## 1. Situation
 Analyzed over **1,000 Amazon product records** to evaluate market performance and customer sentiment across nine distinct categories.
 ## 2. Task
@@ -16,4 +16,4 @@ Cleaned raw data and utilized **Power BI** to build an interactive dashboard.
 * **Strategy Pivot:** Shift away from aggressive discounting as a tool to boost ratings, as the data proved there is no correlation.
 * **Inventory Planning:** Focus inventory resources on the **Electronics** category to capitalize on high organic engagement.
 ## 6. Project Files
-<a href="#">[Download Power BI File (.pbix)]</a>
+<a href="https://github.com/Demola41/Amazon-Sales-Ratings-Analysis/blob/main/Amazon%20sales%20Analysis.pbix">[Download Power BI File (.pbix)]</a>
