@@ -1,5 +1,5 @@
 # Amazon Product Sales & Sentiment Analysis Dashboard
-<a href="#">[Dashboard Preview]</a>
+<a href="https://github.com/Demola41/Amazon-Sales-Ratings-Analysis/blob/main/Amazon%20sales%20analysis.png">[Dashboard Preview]</a>
 ## 1. Situation
 Analyzed over **1,000 Amazon product records** to evaluate market performance and customer sentiment across nine distinct categories.
 ## 2. Task
